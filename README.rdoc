@@ -1,3 +1,3 @@
 == Shouter
 
-A fun little Rails app leveraging complex model relationships and the Solr as a search engine. 
+A fun little Rails app leveraging complex model relationships and the Solr search engine. 
